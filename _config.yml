@@ -36,4 +36,4 @@ docs:
 
 - title: Deployment
   url: pages/deployment.html
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
