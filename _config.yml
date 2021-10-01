@@ -1,1 +1,38 @@
-theme: jekyll-theme-cayman
+# Dependencies
+# markdown:         redcarpet
+# highlighter:      pygments
+
+# Permalinks
+# permalink:        pretty
+# relative_permalinks: true
+
+# Setup
+title:            'George G. Cabral, Dr.'
+description:      'Intrigued by machine learning algorithms applied to any real world domain.'
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+gems:
+  - jekyll-relative-links
+
+docs_list_title: ACME Documentation
+docs:
+
+- title: Introduction
+  url: pages/introduction.html
+
+- title: Configuration
+  url: pages/configuration.html
+
+- title: Deployment
+  url: pages/deployment.html
