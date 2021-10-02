@@ -3,6 +3,8 @@
 ## Academic Profile
 
 
+
+
 ### Assistant Professor (Lecturer), [Department of Computing](http://dc.ufrpe.br), ([Universidade Federal Rural de Pernambuco](http://www.ufrpe.br)), Pernambuco, Brazil 
 
 PhD in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br) and [University of Twente](https://www.utwente.nl/)
@@ -10,6 +12,8 @@ PhD in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br) an
 MSc in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br)
 
 BSc in Computer Science, [Universidade Católica de Pernambuco](https://portal.unicap.br/)
+
+
 
 
 ### Research Interests
@@ -21,6 +25,8 @@ Service Oriented Computing
 Quality of Service
 
 Cost Management of Computacional Services
+
+
 
 
 ### Contact
