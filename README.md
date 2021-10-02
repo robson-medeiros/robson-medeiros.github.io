@@ -1,13 +1,11 @@
-# Robson Medeiros, Dr.
+# Academic Profile
 
-
-## Academic Profile
 
 [Department of Computing](http://dc.ufrpe.br), ([Universidade Federal Rural de Pernambuco](http://www.ufrpe.br)), Pernambuco, Brazil 
 
 
 
-### Assistant Professor (Lecturer), 
+## Assistant Professor (Lecturer), 
 
 
 
@@ -20,7 +18,7 @@ BSc in Computer Science, [Universidade Católica de Pernambuco](https://portal.u
 
 
 
-### Research Interests
+## Research Interests
 
 Distributed Systems
 
