@@ -12,9 +12,9 @@
 
 
 
-PhD in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br) and [University of Twente](https://www.utwente.nl/)
+PhD in Computer Science, [Universidade Federal de Pernambuco](https://www.ufpe.br/) and [University of Twente](https://www.utwente.nl/)
 
-MSc in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br)
+MSc in Computer Science, [Universidade Federal de Pernambuco](https://www.ufpe.br/)
 
 BSc in Computer Science, [Universidade Católica de Pernambuco](https://portal.unicap.br/)
 
