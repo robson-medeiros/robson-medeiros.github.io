@@ -1,8 +1,19 @@
 # Robson Medeiros, Dr.
 
+## Academic Profile
 
-## [Departamento de Computação](http://dc.ufrpe.br), ([UFRPE](http://www.ufrpe.br))
 
-### Professor
+### Assistant Professor (Lecturer), [Department of Computing](http://dc.ufrpe.br), ([Universidade Federal Rural de Pernambuco](http://www.ufrpe.br)), Pernambuco, Brazil 
 
-- **E-mail** ([robson.medeiros@ufrpe.br](mailto:robson.medeiros@ufrpe.br))
+PhD in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br) and [University of Twente](https://www.utwente.nl/)
+MSc in Computer Science, [Universidade Federal de Pernambuco](http://ufpe.br)
+BSc in Computer Science, [Universidade Católica de Pernambuco](https://portal.unicap.br/)
+
+### Research Interests
+Distributed Systems
+Service Oriented Computing
+Quality of Service
+Cost Management of Computacional Services
+
+Contact
+**E-mail** ([robson.medeiros@ufrpe.br](mailto:robson.medeiros@ufrpe.br))
