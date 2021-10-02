@@ -5,7 +5,7 @@
 
 [Department of Computing](http://dc.ufrpe.br)
 
-** [UFRPE](http://www.ufrpe.br), Pernambuco, Brazil **
+**[UFRPE](http://www.ufrpe.br), Pernambuco, Brazil**
 
 
 
