@@ -3,9 +3,9 @@
 ## Academic Profile
 
 
-[Department of Computing](http://dc.ufrpe.br)
+[Department of Computing](http://dc.ufrpe.br)/[UFRPE](http://www.ufrpe.br)
 
-**[UFRPE](http://www.ufrpe.br), Pernambuco, Brazil**
+Pernambuco, Brazil
 
 
 
