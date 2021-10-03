@@ -36,4 +36,5 @@ Cost Management of Computacional Services
 
 
 ### Contact
-**E-mail** ([robson.medeiros@ufrpe.br](mailto:robson.medeiros@ufrpe.br))
+**E-mail** [robson.medeiros@ufrpe.br](mailto:robson.medeiros@ufrpe.br)
+**Lattes** [http://lattes.cnpq.br/3169193612606500](http://lattes.cnpq.br/3169193612606500)
