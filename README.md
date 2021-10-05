@@ -1,26 +1,8 @@
 # Robson Medeiros, Dr.
 
-## Academic Profile
+## Amout me
 
-
-[Department of Computing](http://dc.ufrpe.br) / [UFRPE](http://www.ufrpe.br)
-
-Pernambuco, Brazil
-
-
-
-### Assistant Professor (Lecturer), 
-
-
-
-
-PhD in Computer Science, [Universidade Federal de Pernambuco](https://www.ufpe.br/) and [University of Twente](https://www.utwente.nl/)
-
-MSc in Computer Science, [Universidade Federal de Pernambuco](https://www.ufpe.br/)
-
-BSc in Computer Science, [Universidade Católica de Pernambuco](https://portal.unicap.br/)
-
-
+I am a lecturer and researcher at the [Department of Computing](http://dc.ufrpe.br) / [UFRPE](http://www.ufrpe.br), Brazil. I am graduated in Computer Science at Unicap, Recife/Brazil, and I did my master in Computer Science at Center of Informats of the Universidade Federal de Pernambuco (UFPE), Brazil. My PhD was on cost management of service compositions, at the UFPE/Brasil and the University Of Twente, The Netherlands.
 
 ### Research Interests
 
@@ -31,7 +13,6 @@ Service Oriented Computing
 Quality of Service
 
 Cost Management of Computacional Services
-
 
 
 
