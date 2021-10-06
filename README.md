@@ -2,7 +2,7 @@
 
 ## Amout me
 
-I am a lecturer and researcher at the [Department of Computing](http://dc.ufrpe.br) / [UFRPE](http://www.ufrpe.br), Brazil. I am graduated in Computer Science at Unicap, Recife/Brazil, and I did my master in Computer Science at [Center of Informatics](cin.ufpe.br) of the [Universidade Federal de Pernambuco](https://www.ufpe.br/), Brazil. My PhD was on cost management of service compositions, at the [UFPE](https://www.ufpe.br/), Brasil, and the [University of Twente](https://www.utwente.nl/en/), The Netherlands.
+I am a lecturer and researcher at the [Department of Computing](http://dc.ufrpe.br) / [UFRPE](http://www.ufrpe.br), Brazil. I am graduated in Computer Science at Unicap, Recife/Brazil, and I did my master in Computer Science at [Center of Informatics](www.cin.ufpe.br) of the [Universidade Federal de Pernambuco](https://www.ufpe.br/), Brazil. My PhD was on cost management of service compositions, at the [UFPE](https://www.ufpe.br/), Brasil, and the [University of Twente](https://www.utwente.nl/en/), The Netherlands.
 
 ### Research Interests
 
